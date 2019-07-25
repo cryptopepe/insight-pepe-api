@@ -48,6 +48,8 @@ require certain information from the blockchain that pepecoind does not provide.
   sync progress at http://localhost:3001/api/sync.
 
 
+------------------------------
+------------------------------
 ## Prerequisites
 
 * **pepecoind** - Download and Install https://github.com/pepeteam/pepecoin
